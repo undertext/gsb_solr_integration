@@ -1,0 +1,4 @@
+name = GSB Solr Integration
+description = "Integration functions for Apache Solr support"
+package = GSB
+core = 7.x
